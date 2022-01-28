@@ -1,5 +1,5 @@
 {
-    "name": "rodenkov/sprint.migration",
+    "name": "rodenkov/fix_sprint_migration",
     "description": "fix bitrix migration module",
     "homepage": "",
     "type": "bitrix-module",
