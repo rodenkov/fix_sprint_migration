@@ -1,0 +1,22 @@
+{
+    "name": "rodenkov/sprint.migration",
+    "description": "fix bitrix migration module",
+    "homepage": "",
+    "type": "bitrix-module",
+    "keywords": [
+    ],
+    "authors": [
+        {
+            "name": "Pavel Rodenkov",
+            "email": "rodenkov.p@ya.ru",
+            "role": "Author"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1",
+        "ext-json": "*",
+        "ext-iconv": "*"
+    }
+}
